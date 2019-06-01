@@ -30,7 +30,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 using namespace gg;
 
 // Oculus Rift を使うなら 1
-#define USE_OCULUS_RIFT 0
+#define USE_OCULUS_RIFT 1
 
 // Oculus Rift SDK ライブラリ (LibOVR) の組み込み
 #if USE_OCULUS_RIFT
